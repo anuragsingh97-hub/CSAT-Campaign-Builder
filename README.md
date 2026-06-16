@@ -2,7 +2,7 @@ A React-based CSAT (Customer Satisfaction) Campaign Builder that allows users to
 
 Live Demo : https://assignmentappvercel.netlify.app/
 
-GitHub Repository : 
+GitHub Repository : https://github.com/anuragsingh97-hub/CSAT-Campaign-Builder
 --------------------------------------------------------------------------------------------------------------------------------
 Project Overview :
 This project was developed as part of a Frontend Intern Assignment.
